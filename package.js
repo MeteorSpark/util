@@ -1,7 +1,8 @@
 Package.describe({
   name: 'meteorspark:util',
   summary: 'Bring some of NodeJS util functionality to the Meteor client',
-  version: '0.1.0'
+  version: '0.1.0',
+  git: 'https://github.com/MeteorSpark/util'
 });
 
 both = ['server', 'client'];
